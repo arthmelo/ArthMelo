@@ -32,18 +32,6 @@
 └──────────────────────────────────────────────────────────────┘
 ```
 
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthMelo&show_icons=true&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=FFD700)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArthMelo&layout=compact&title_color=FFD700&text_color=ffffff&bg_color=0d0d0d&border_color=FFD700)
-
-</div>
-
----
-
 ## Sobre mim
 
 ```
