@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Arthur Melo.
 ##  🚀 Sobre Mim 
-Sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ). Atualmente sou trainee da equipe de Desenvolvimento da UFRJ Analytica. Tenho muito interesse em diversas áreas dentro da computação, com foco especial em Ciência de Dados e Inteligência Artificial.
+Sou estudante de graduação em Ciência da Computação na Universidade Federal do Rio de Janeiro (UFRJ) e estou no 6º período. Atualmente sou trainee da equipe de Desenvolvimento da UFRJ Analytica. Tenho interesse especial em Ciência de Dados e Inteligência Artificial.
 
 <div align="center">
 
