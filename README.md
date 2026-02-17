@@ -1,16 +1,22 @@
 <div align="center">
 
-# Oi! Eu sou o Arthur Melo
-
+```
+██╗  ██╗███████╗██╗     ██╗      ██████╗
+██║  ██║██╔════╝██║     ██║     ██╔═══██╗
+███████║█████╗  ██║     ██║     ██║   ██║
+██╔══██║██╔══╝  ██║     ██║     ██║   ██║
+██║  ██║███████╗███████╗███████╗╚██████╔╝
+╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝
+```
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │                                                              │
-│   Nome        ► Arthur Melo                                  │
-│   Interesse   ► Data Science, AI e Machine Learning          │
-│   Membro      ► UFRJ Analytica — Equipe deDesenvolvimento    │
-│   Estudante   ► Universidade Federal do Rio de Janeiro(UFRJ) │
-│   Curso       ► Ciência da Computação - 6º Período           │
+│   Nome       ► Arthur Melo                                   │
+│   Interesse  ► Data Science, AI e Machine Learning           │
+│   Membro     ► UFRJ Analytica — Equipe deDesenvolvimento     │
+│   Estudante  ► Universidade Federal do Rio de Janeiro (UFRJ) │
+│   Curso      ► Ciência da Computação - 6º Período            │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
@@ -20,14 +26,14 @@
 │  Habilidades                                                 │
 ├──────────────────────────────────────────────────────────────┤
 │                                                              │
-│  ► Python                         │                          │
-│  ► Git & GitHub                   │                          │
-│  ► Java                           │                          │
-│  ► C                              │                          │
-│  ► Machine Learning               │                          │
-│  ► Estatística e Probabilidade    │                          │
-│  ► Banco de Dados                 │                          │
-│  ► Computação Científica          │                          │
+│  ► Python                                                    │
+│  ► Git & GitHub                                              │
+│  ► Java                                                      │
+│  ► C                                                         │
+│  ► Machine Learning                                          │
+│  ► Estatística e Probabilidade                               │
+│  ► Banco de Dados                                            │
+│  ► Computação Científica                                     │
 │                                                              │
 └──────────────────────────────────────────────────────────────┘
 ```
